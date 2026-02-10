@@ -1,0 +1,26 @@
+ {
+    text-align: center;
+    color: red;
+}
+body {
+    background: #999999;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#header {
+    color: #9fc5e8;
+}
+.about {
+    text-align: center;
+    color: blue;
+}
+.projects {
+    background: #000000;
+}
+
+.left {
+    text-align: left;
+}
+
+.attention {
+    font-weight: bold;
+}
