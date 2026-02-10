@@ -1,4 +1,4 @@
- p {
+p {
     text-align: center;
     color: red;
 }
@@ -20,7 +20,9 @@ body {
 .left {
     text-align: left;
 }
-
+.green {
+    color: green;
+}
 .attention {
     font-weight: bold;
 }
