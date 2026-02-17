@@ -1,6 +1,3 @@
-.contact {
-    text-align: center;
-}
 h3 {
     text-align: center;
     color: red;
@@ -23,6 +20,9 @@ body {
 .projects {
     color: #ffffff;
     background: #000000;
+}
+.contact {
+    text-align: center;
 }
 .left {
     text-align: left;
