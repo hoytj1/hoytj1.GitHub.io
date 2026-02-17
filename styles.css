@@ -1,6 +1,10 @@
-p {
-    text-align: center;
+h3 {
+    text-align: middle;
     color: red;
+}
+p {
+    text-align: left;
+    color: #9fc5e8;
 }
 body {
     background: #999999;
@@ -10,20 +14,20 @@ body {
     color: #9fc5e8;
 }
 .about {
-    text-align: center;
-    color: blue;
+    text-align: left;
+    color: black;
 }
 .projects {
     color: #ffffff;
     background: #000000;
 }
-
+.contact {
+    text-align: middle;
+}
 .left {
     text-align: left;
 }
-.green {
-    color: green;
-}
+
 .attention {
     font-weight: bold;
 }
