@@ -8,6 +8,7 @@ h2 {
 
 p {
     text-align: center;
+    max-width: 500px;
 }
 
 .pfp {
@@ -18,4 +19,5 @@ p {
 .about {
     display: flex;
     align-items: center;
+    gap: 20px;
 }
