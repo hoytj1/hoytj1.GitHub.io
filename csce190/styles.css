@@ -14,10 +14,11 @@ p {
 .pfp {
     width: 300px;
     height: auto;
+    margin-left: 100px;
 }
 
 .about {
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 200px;
 }
